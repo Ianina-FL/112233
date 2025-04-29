@@ -117,7 +117,7 @@ const LeadsData = [
 
     status: 'New',
 
-    category: 'Government',
+    category: 'Corporate',
 
     // type code here for "relation_one" field
 
@@ -129,9 +129,9 @@ const LeadsData = [
   {
     name: 'Global Tech',
 
-    status: 'New',
+    status: 'Qualified',
 
-    category: 'Individual',
+    category: 'Government',
 
     // type code here for "relation_one" field
 
@@ -143,7 +143,7 @@ const LeadsData = [
   {
     name: 'Smith & Co',
 
-    status: 'New',
+    status: 'Lost',
 
     category: 'Individual',
 
@@ -157,9 +157,9 @@ const LeadsData = [
   {
     name: 'Green Energy',
 
-    status: 'Qualified',
+    status: 'Contacted',
 
-    category: 'Government',
+    category: 'Individual',
 
     // type code here for "relation_one" field
 
@@ -205,19 +205,19 @@ const NotesData = [
 
 const OrganizationsData = [
   {
-    name: 'Edward O. Wilson',
+    name: 'Isaac Newton',
   },
 
   {
-    name: 'Carl Gauss (Karl Friedrich Gauss)',
+    name: 'Archimedes',
   },
 
   {
-    name: 'Gertrude Belle Elion',
+    name: 'Noam Chomsky',
   },
 
   {
-    name: 'Robert Koch',
+    name: 'Alexander Fleming',
   },
 ];
 
