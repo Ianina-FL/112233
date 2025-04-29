@@ -139,7 +139,7 @@ const LeadsData = [
   {
     name: 'Acme Corp',
 
-    status: 'Contacted',
+    status: 'New',
 
     category: 'Government',
 
@@ -167,9 +167,9 @@ const LeadsData = [
   {
     name: 'Smith & Co',
 
-    status: 'Contacted',
+    status: 'New',
 
-    category: 'Corporate',
+    category: 'Government',
 
     // type code here for "relation_one" field
 
@@ -181,7 +181,7 @@ const LeadsData = [
   {
     name: 'Green Energy',
 
-    status: 'New',
+    status: 'Contacted',
 
     category: 'Corporate',
 
@@ -195,7 +195,7 @@ const LeadsData = [
   {
     name: 'Blue Sky Ltd',
 
-    status: 'Contacted',
+    status: 'Qualified',
 
     category: 'Corporate',
 
@@ -251,23 +251,23 @@ const NotesData = [
 
 const OrganizationsData = [
   {
-    name: 'Karl Landsteiner',
+    name: 'Wilhelm Wundt',
   },
 
   {
-    name: 'Alfred Kinsey',
+    name: 'Nicolaus Copernicus',
   },
 
   {
-    name: 'Franz Boas',
+    name: 'B. F. Skinner',
   },
 
   {
-    name: 'Justus Liebig',
+    name: 'Trofim Lysenko',
   },
 
   {
-    name: 'Justus Liebig',
+    name: 'Sheldon Glashow',
   },
 ];
 
