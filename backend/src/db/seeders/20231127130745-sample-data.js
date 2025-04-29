@@ -93,7 +93,7 @@ const LeadsData = [
 
     status: 'New',
 
-    category: 'Government',
+    category: 'Individual',
 
     // type code here for "relation_one" field
 
@@ -105,7 +105,7 @@ const LeadsData = [
   {
     name: 'Global Tech',
 
-    status: 'Qualified',
+    status: 'Contacted',
 
     category: 'Corporate',
 
@@ -159,15 +159,15 @@ const NotesData = [
 
 const OrganizationsData = [
   {
-    name: 'Albert Einstein',
+    name: 'Ernest Rutherford',
   },
 
   {
-    name: 'Richard Feynman',
+    name: 'Comte de Buffon',
   },
 
   {
-    name: 'William Herschel',
+    name: 'John von Neumann',
   },
 ];
 
